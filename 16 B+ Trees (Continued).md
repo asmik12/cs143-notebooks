@@ -14,8 +14,8 @@
 >
 > - [ ] R
 > - [ ] S
+> - [ ] T
 > - [ ] U
-> - [ ] None of the above
 
 <details>
 <summary>Expand for answer.</summary>
@@ -38,8 +38,8 @@ $\text{keyattr}_Q(U) = \lbrace z, w \rbrace \subseteq S, T$ both. Thus, $U$ is a
 >
 > - [ ] R
 > - [ ] S
+> - [ ] T
 > - [ ] U
-> - [ ] None of the above
 
 <details>
 <summary>Expand for answer.</summary>
