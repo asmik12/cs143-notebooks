@@ -75,7 +75,9 @@ $$\text{keyattr}_Q(S) = \lbrace z, y, w \rbrace$$
 > Consider the following natural join queries:
 >
 > Q1: R(x, y, z) ⋈ S(x, a) ⋈ T (y, b) ⋈ U (z, c)
+> 
 > Q2: R(x, y) ⋈ S(y, z) ⋈ T(z, w)
+> 
 > Q3: R(x, y, z) ⋈ S(x, y, z) ⋈ T(x, y, z)
 >
 > Which of the queries are acyclic? Choose all that apply.
